@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>NETWORKING ASSINGMENT BY ARNAB MONDAL</title>
+		<title>NETWORKING ASSIGNMENT BY ARNAB MONDAL</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
 			::-webkit-scrollbar{
@@ -162,9 +162,14 @@
 				box-shadow: 0px 5px 7px #666666;
 				border: 1px solid #666666;
 				}
+				
 				.bg-image #background-video {
   width: 100vw;
   height: 100vh;
+
+  
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
   object-fit: cover;
   position: fixed;
   left: 0;
@@ -223,7 +228,7 @@
 				</label>
 				<nav class="nav">
 					<ul>
-						<li><a href ="home.html">HOME</a></li>
+						<li><a href ="index.html">HOME</a></li>
 						<li><a href ="1.html">HISTORY</a></li>
 						<li><a href ="ABOUT US.html">ABOUT US</a></li>
 					</ul>
@@ -239,7 +244,7 @@
 			<h1 style="font-size:5vw;">Welcome</h1>
 			<h2 style="font-size:2vw;">To My Website</h2>
 			<br/><br/>
-			<a href="home.html" download>
+			<a href="index.html">
 				<button class="btn" style="max-width:50%; height:auto;"><i class="fa fa-download"></i>Continue...</button>
 			</a>
 	</div>

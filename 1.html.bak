@@ -296,7 +296,7 @@
 				</label>
 				<nav class="nav">
 					<ul>
-						<li><a href ="home.html">HOME</a></li>
+						<li><a href ="index.html">HOME</a></li>
 						<li><a href ="1.html">HISTORY</a></li>
 						<li><a href ="ABOUT US.html">ABOUT US</a></li>
 					</ul>
@@ -416,7 +416,7 @@
 		</div>
 		<div id="downnav">
 			<ul>
-				<li><a href ="home.html">HOME</a></li>
+				<li><a href ="index.html">HOME</a></li>
 				<li><a href	="1.html">HISTORY</a></li>
 				<li><a href ="ABOUT US.html">ABOUT US</a></li>
 			</ul>
